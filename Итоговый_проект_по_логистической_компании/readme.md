@@ -298,7 +298,7 @@ H1: распределения объема перевозок не одинак
 
 **Общий анализ выводов**
 
-<img width="703" height="618" alt="image" src="https://github.com/user-attachments/assets/e0f7c816-0ef3-4279-84fc-4ad762ee9dcc" />
+<img width="703" height="621" alt="image" src="https://github.com/user-attachments/assets/bf3fc583-5f69-4eaa-bb99-35d2a25573a0" />
 
 
 
